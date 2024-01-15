@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🗣️ Large Language Model Course</h1>
+  <h1>🗣️ 대형 언어 모델 과정</h1>
   <p align="center">
     🐦 <a href="https://twitter.com/maximelabonne">Follow me on X</a> • 
     🤗 <a href="https://huggingface.co/mlabonne">Hugging Face</a> • 
@@ -11,13 +11,13 @@
 
 The LLM course is divided into three parts:
 
-1. 🧩 **LLM Fundamentals** covers essential knowledge about mathematics, Python, and neural networks.
-2. 🧑‍🔬 **The LLM Scientist** focuses on building the best possible LLMs using the latest techniques.
-3. 👷 **The LLM Engineer** focuses on creating LLM-based applications and deploying them.
+1. 🧩 **LLM Fundamentals**에서는 수학, 파이썬, 신경망에 대한 필수 지식을 다룹니다. 
+2. 🧑‍🔬 **The LLM Scientist**는 최신 기술을 이용하여 가능한 최고의 LLM을 구축하는 데 중점을 둡니다. 
+3. 👷 **The LLM Engineer**는 LLM 기반 애플리케이션을 만들고 배포하는데 초점을 맞춥니다.
 
 ## 📝 Notebooks
 
-A list of notebooks and articles related to large language models.
+대규모 언어 모델과 관련된 notebook과 article 목록입나다.
 
 ### LLMOps Tools
 
